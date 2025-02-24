@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>GÖKNUR GIDA MADDELERİ ENERJİ İMALAT İTHALAT İHRACAT TİCARET VE SANAYİ ANONİM ŞİRKETİ
+ 
+KİŞİSEL VERİLERİN KORUNMASI AYDINLATMA METNİ
+ 
+İşbu aydınlatma metni (“Aydınlatma Metni”), 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun (“Kanun”) 10. maddesi ile Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ kapsamında veri sorumlusu sıfatıyla Göknur Gıda Maddeleri Enerji İmalat İthalat İhracat Ticaret ve Sanayi Anonim Şirketi (“Şirketimiz”) tarafından hazırlanmıştır.
+ 
+Veri Sorumlusu
+ 
+KVKK uyarınca, Etik hattı ziyaret ettiğinizde aşağıdaki kişisel verileriniz işlenecektir. 
+ 
+Kimlik Bilgileri: Adı ve Soyadı 
+ 
+İletişim Bilgileri: Telefon numarası, adres, e posta adresi 
+ 
+İşlem Güvenliği Bilgileriniz: IP adresi bilgileri, internet sitesi giriş çıkış bilgileri.
+ 
+Kişisel verileriniz veri sorumlusu Şirketimiz tarafından aşağıda açıklanan kapsamda hukuka ve dürüstlük kurallarına uygun bir şekilde işlenebilecek, kaydedilebilecek, saklanılabilecek, sınıflandırılabilecek, güncellenebilecek ve mevzuatın izin verdiği hallerde ve/veya işlendikleri amaçla sınırlı olarak üçüncü kişilere ve kullandığı veri depolama sistemlerinin merkezlerinin bulunduğu ülkelere açıklanabilecek/aktarabilecektir.
+ 
+Kişisel Verilerin Hangi Amaçla İşleneceği
+ 
+Kişisel veriler; hukuka ve Kanun’un amacına uygun olarak
+ 
+Kullanıcılar tarafından yöneltilen talep, öneri ve şikayetlerin değerlendirilmesi,
+ 
+İletişim faaliyetlerinin yürütülmesi,
+ 
+5651 Sayılı Kanun’dan doğan yükümlülüklerin yerine getirilmesi, 
+ 
+İlgili mevzuat gereği saklanması gereken bilgilerinizin muhafazası; bilgi kayıplarının önlenebilmesi için kopyalanması, yedeklenmesi; bilgilerinizin tutarlılığının kontrolünün sağlanması, şebekelerimizin ve bilgilerinizin güvenliği için gerekli teknik ve idari tedbirlerin alınması,
+ 
+Düzenleyici ve denetleyici kurumlarla, yasal düzenlemelerin gerektirdiği veya zorunlu kıldığı hukuki yükümlülüklerin yerine getirilmesi, yasal takiplerin ve hukuki süreçlerin yürütülmesi.
+ 
+Şirketimiz tarafından sunulan ürün ve hizmetlerden ilgili kişileri faydalandırmak için gerekli çalışmaların iş birimlerimiz tarafından yapılması ve ilgili iş süreçlerinin yürütülmesi, 
+ 
+Şirketimiz tarafından sunulan ürün ve hizmetlerin ilgili kişilerin beğeni, kullanım alışkanlıkları ve ihtiyaçlarına göre özelleştirilerek ilgili kişilere önerilmesi ve tanıtılması için gerekli olan aktivitelerin planlanması ve icrası, Şirketimiz tarafından yürütülen ticari faaliyetlerin gerçekleştirilmesi için ilgili iş birimlerimiz tarafından gerekli çalışmaların yapılması ve buna bağlı iş süreçlerinin yürütülmesi, 
+ 
+Şirketimiz ’in ticari ve/veya iş stratejilerinin planlanması ve icrası,  
+ 
+Şirketimiz’in ve Şirketimiz ile iş ilişkisi içerisinde olan ilgili kişilerin hukuki, teknik ve ticari-iş güvenliğinin temini, yetkili kuruluşlara mevzuattan kaynaklı bilgi verilmesi, veri güvenliğinin en üst düzeyde sağlanması, 
+ 
+Şirketimiz’e talep ve şikâyetlerini ileten kişisel veri sahipleri ile iletişime geçmesi ve talep ve şikâyet yönetiminin sağlanması,
+ 
+Amaçlarıyla sınırlı olarak Kanun’un 5. ve 6. maddelerinde belirtilen kişisel veri işleme şartları ve amaçları kapsamında işlenecektir.
+ 
+İşlenen Kişisel Verilerin Kimlere ve Hangi Amaçla Aktarılabileceği 
+ 
+Kişisel verileriniz; Kanun’un 4. maddesinde sayılan genel ilkeler ile 5. ve 6. maddelerinde belirtilen Kişisel Veri İşleme şartları kapsamında ve işbu Aydınlatma Metninin 2. Maddesinde belirtilen amaçlarla sınırlı olarak, Kanun’un 8. ve 9. maddelerinde öngörülen şartlara uymak ve gerekli güvenlik önlemlerini almak kaydıyla, ilgili mevzuat gereği talep edilmesi halinde yurt içindeki adli makamlar veya kolluk kuvvetleri ile paylaşılabilecektir. 
+ 
+Kişisel Veri Toplamanın Yöntemi ve Hukuki Sebebi
+ 
+Kişisel verileriniz, Etik hat ile gönderilecek talep, öneri ve şikayetlerinizi Şirketimize bildirdiğiniz sırada elektronik mecralardan yukarıda yer verilen amaçlar dahilinde Kanun’un 5. Ve 8. Maddelerinde sayılan ve aşağıda yer verilen hukuka uygunluk sebeplerine dayanılarak otomatik veya otomatik olmayan yollarla işlenmektedir. Kişisel verilerinizi, açık rızanıza dayalı olarak veya (i) veri işlemenin kanunlarda açıkça öngörüldüğü, (ii) bir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla veri işlemenin gerekli olduğu,(iii) hukuki bir yükümlülüğümüzün yerine getirilebilmesi için veri işlemenin zorunlu olduğu, (iv) verinin sizin tarafınızdan alenileştirilmiş olduğu, (v) bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olduğu veya (vi) temel hak ve özgürlüklerinize zarar vermemek kaydıyla meşru menfaatlerimizi için veri işlemenin zorunlu olduğu hallerde, açık rızanız olmaksızın işlemekteyiz. Bahsi geçen amaçlarla gerçekleştirilen işleme faaliyetinin, Kanun kapsamında öngörülen şartlardan herhangi birini karşılamıyor olması halinde, ilgili işleme sürecine ilişkin olarak Şirket tarafından açık rızanız temin edilmektedir.
+ 
+Kişisel Veri Sahibi Olarak Haklarınız
+ 
+Kişisel veri sahibi olarak Kanun’un 11’inci maddesi uyarınca, veri sahibi olarak kişisel verilerinizin işlenip işlenmediğini öğrenme, işlenmişse buna ilişkin bilgi talep etme, verilerinizin işlenme amacını ve amacına uygun kullanılıp kullanılmadığını öğrenme, yurt içinde veya yurt dışında verilerinizin aktarıldığı üçüncü kişileri bilme, verilerinizin eksik veya yanlış işlenmiş olması hâlinde düzeltilmesini isteme, verilerinizin işlenmelerini gerektiren sebeplerin ortadan kalkması halinde, silinmesini veya yok edilmesini ve düzeltme ve silme işlemlerinin verilerinizin aktarıldığı üçüncü kişilere bildirilmesini isteme, işlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle aleyhinize bir sonucun ortaya çıkmasına itiraz etme, kişisel verilerinizin kanuna aykırı olarak işlenmesi sebebiyle zarara uğramanız hâlinde zararınızın giderilmesini talep etme haklarına sahip bulunmaktasınız.
+ 
+Kanun’un 13. maddesi gereğince, kişisel veri sahibi olarak yukarıda belirtilen haklarınızdan herhangi birini kullanmak istemeniz halinde, bu talebinizi, kimliğiniz ve kullanmak istediğiniz hakkınıza ilişkin yeterli bilgi ve açıklamayla birlikte “Erler Mah. 2716. Cad. No:11 Etimesgut/Ankara” adresine bizzat veya noter kanalıyla veya goknur.gida@hs03.kep.tr kayıtlı e-posta adresimize kayıtlı elektronik posta (KEP) ile “www.goknur.com.tr” adresinde bulunan Veri Sahibi Başvuru Formu’nu doldurarak Şirketimiz’e iletebilirsiniz.
+ 
+Başvuruların, kişisel veri sahipleri adına üçüncü kişilerce yapılması durumunda, başvuru formu ile birlikte adına başvuru yapılan kişisel veri sahibi tarafından yapılan yetkilendirmeyi gösterir noter kanalıyla düzenlenmiş özel vekâletname sunulması gereklidir.
+ 
+İletilen talep doğrultusunda, Şirketimiz ile olan ilişkiniz tespit edilerek, varsa, Şirketimiz tarafından işlenen kişisel verileriniz eksiksiz olarak belirlenecek, ilgili başvurunuza doğru şekilde ve en geç 30 gün içinde ücretsiz olarak cevap verilecektir. İşlemin ayrıca bir maliyeti gerektirmesi halinde, Şirketimiz tarafından, Kişisel Verileri Koruma Kurulunca belirlenen tarifedeki ücret ilgilisinden talep edilecektir.
+ 
+Hukuka aykırı ve haksız bir şekilde veri paylaşımından kaynaklanabilecek hukuki risklerin bertaraf edilmesi, kişisel verilerinizin güvenliğinin sağlanması ve başvuru yapanın ilgili kişi olduğunun doğrulanması amacıyla, kimlik ve yetki tespiti için Şirketimiz kişisel bilgilerinizi veya ek evrak ve malumat (Nüfus cüzdanı veya sürücü belgesi sureti vb.) talep etme hakkını saklı tutar. İletilen taleplerinize ilişkin bilgilerin doğru ve güncel olmaması ya da yetkisiz bir başvuru yapılması halinde Şirketimiz, söz konusu yanlış bilgi ya da yetkisiz başvuru kaynaklı taleplerden dolayı mesuliyet kabul etmemektedir.
+ 
+Aydınlatma Metni Hakkında 
+ 
+Bu Aydınlatma Metni Şirket tarafından yayımlandığı tarih itibariyle geçerli olacaktır. Şirket, bu Aydınlatma Metninde, gerekli olduğu takdirde, her zaman değişiklik yapabilir. 
+ </value>
+  </data>
+  <metadata name="xtraOpenFileDialog1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+</root>
